@@ -25,10 +25,6 @@
 
 > ⚠️ 初回起動時にWindowsスマートスクリーンの警告が出ることがあります。「詳細情報」→「実行」で起動できます。
 
-## 今後の予定
-
-- 家系図作成アプリ（FamilyTree）を別途リリース予定
-
 ## Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-daigorou-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/daigorou)
@@ -59,10 +55,6 @@ A Windows desktop app for creating character relationship diagrams for dramas, n
 3. Launch from the Start menu or desktop shortcut
 
 > ⚠️ Windows SmartScreen may show a warning on first launch. Click "More info" → "Run anyway" to proceed.
-
-## Planned
-
-- Family tree app (FamilyTree) coming soon as a separate release
 
 ## Support
 
