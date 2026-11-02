@@ -40,6 +40,10 @@
 
 > ⚠️ 初回起動時にWindowsスマートスクリーンの警告が出ることがあります。「詳細情報」→「実行」で起動できます。
 
+## 作者
+
+作者の他のツール: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
+
 ## Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-daigorou-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/daigorou)
@@ -86,6 +90,10 @@ A Windows desktop app for creating character relationship diagrams for dramas, n
 3. Launch from the Start menu or desktop shortcut
 
 > ⚠️ Windows SmartScreen may show a warning on first launch. Click "More info" → "Run anyway" to proceed.
+
+## Author
+
+Other tools by the author: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
 
 ## Support
 
